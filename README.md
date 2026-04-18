@@ -1,3 +1,3 @@
 # project.demo
 this is my first repository
-auth noor
+author noor
